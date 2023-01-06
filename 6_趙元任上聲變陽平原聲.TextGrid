@@ -1,0 +1,410 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 55 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 55 
+        intervals: size = 99 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.608031282308266 
+            text = "" 
+        intervals [2]:
+            xmin = 6.608031282308266 
+            xmax = 6.880839272537628 
+            text = "ni3" 
+        intervals [3]:
+            xmin = 6.880839272537628 
+            xmax = 7.494657250553693 
+            text = "" 
+        intervals [4]:
+            xmin = 7.494657250553693 
+            xmax = 7.777695540416655 
+            text = "ye3" 
+        intervals [5]:
+            xmin = 7.777695540416655 
+            xmax = 8.108475228569755 
+            text = "" 
+        intervals [6]:
+            xmin = 8.108475228569755 
+            xmax = 8.473355915501527 
+            text = "wang3" 
+        intervals [7]:
+            xmin = 8.473355915501527 
+            xmax = 8.841646702311165 
+            text = "" 
+        intervals [8]:
+            xmin = 8.841646702311165 
+            xmax = 9.172426390464265 
+            text = "wang3" 
+        intervals [9]:
+            xmin = 9.172426390464265 
+            xmax = 9.604206493290196 
+            text = "" 
+        intervals [10]:
+            xmin = 9.604206493290196 
+            xmax = 9.941806381199031 
+            text = "miang3" 
+        intervals [11]:
+            xmin = 9.941806381199031 
+            xmax = 10.371478965810274 
+            text = "" 
+        intervals [12]:
+            xmin = 10.371478965810274 
+            xmax = 10.760230351887115 
+            text = "qiang3" 
+        intervals [13]:
+            xmin = 10.760230351887115 
+            xmax = 11.134783092657175 
+            text = "" 
+        intervals [14]:
+            xmin = 11.134783092657175 
+            xmax = 11.432020027826919 
+            text = "yin3" 
+        intervals [15]:
+            xmin = 11.432020027826919 
+            xmax = 11.766209815857886 
+            text = "" 
+        intervals [16]:
+            xmin = 11.766209815857886 
+            xmax = 12.212932899858465 
+            text = "zieu3" 
+        intervals [17]:
+            xmin = 12.212932899858465 
+            xmax = 12.555678250137094 
+            text = "" 
+        intervals [18]:
+            xmin = 12.555678250137094 
+            xmax = 12.865997339022993 
+            text = "qi3" 
+        intervals [19]:
+            xmin = 12.865997339022993 
+            xmax = 13.264979024733433 
+            text = "" 
+        intervals [20]:
+            xmin = 13.264979024733433 
+            xmax = 13.660550610566009 
+            text = "you3" 
+        intervals [21]:
+            xmin = 13.660550610566009 
+            xmax = 14.052712096520716 
+            text = "" 
+        intervals [22]:
+            xmin = 14.052712096520716 
+            xmax = 14.455103882109023 
+            text = "ci3" 
+        intervals [23]:
+            xmin = 14.455103882109023 
+            xmax = 14.912057265743204 
+            text = "" 
+        intervals [24]:
+            xmin = 14.912057265743204 
+            xmax = 15.195095555606168 
+            text = "li3" 
+        intervals [25]:
+            xmin = 15.195095555606168 
+            xmax = 15.94894391959122 
+            text = "" 
+        intervals [26]:
+            xmin = 15.94894391959122 
+            xmax = 16.221751909820583 
+            text = "ni7" 
+        intervals [27]:
+            xmin = 16.221751909820583 
+            xmax = 16.341105405545928 
+            text = "" 
+        intervals [28]:
+            xmin = 16.341105405545928 
+            xmax = 16.654834594309694 
+            text = "ye3" 
+        intervals [29]:
+            xmin = 16.654834594309694 
+            xmax = 16.995844582096396 
+            text = "sil" 
+        intervals [30]:
+            xmin = 16.995844582096396 
+            xmax = 17.214090974279884 
+            text = "wang7" 
+        intervals [31]:
+            xmin = 17.214090974279884 
+            xmax = 17.326624270249496 
+            text = "" 
+        intervals [32]:
+            xmin = 17.326624270249496 
+            xmax = 17.63012315937966 
+            text = "wang3" 
+        intervals [33]:
+            xmin = 17.63012315937966 
+            xmax = 17.91657154912049 
+            text = "sil" 
+        intervals [34]:
+            xmin = 17.91657154912049 
+            xmax = 18.13481794130398 
+            text = "mian7" 
+        intervals [35]:
+            xmin = 18.13481794130398 
+            xmax = 18.267811836540794 
+            text = "" 
+        intervals [36]:
+            xmin = 18.267811836540794 
+            xmax = 18.561080426037357 
+            text = "qiang3" 
+        intervals [37]:
+            xmin = 18.561080426037357 
+            xmax = 18.866872923454757 
+            text = "sil" 
+        intervals [38]:
+            xmin = 18.866872923454757 
+            xmax = 19.108990014783316 
+            text = "yin7" 
+        intervals [39]:
+            xmin = 19.108990014783316 
+            xmax = 19.16014151295132 
+            text = "" 
+        intervals [40]:
+            xmin = 19.16014151295132 
+            xmax = 19.50797170049376 
+            text = "zieu3" 
+        intervals [41]:
+            xmin = 19.50797170049376 
+            xmax = 19.83875138864686 
+            text = "sil" 
+        intervals [42]:
+            xmin = 19.83875138864686 
+            xmax = 19.981975583517272 
+            text = "qi7" 
+        intervals [43]:
+            xmin = 19.981975583517272 
+            xmax = 20.09791897936475 
+            text = "" 
+        intervals [44]:
+            xmin = 20.09791897936475 
+            xmax = 20.408238068250647 
+            text = "you3" 
+        intervals [45]:
+            xmin = 20.408238068250647 
+            xmax = 20.7356671682732 
+            text = "sil" 
+        intervals [46]:
+            xmin = 20.7356671682732 
+            xmax = 24.20467026708149 
+            text = "" 
+        intervals [47]:
+            xmin = 24.20467026708149 
+            xmax = 24.38881566048631 
+            text = "yin7" 
+        intervals [48]:
+            xmin = 24.38881566048631 
+            xmax = 24.470658057555116 
+            text = "" 
+        intervals [49]:
+            xmin = 24.470658057555116 
+            xmax = 24.90033064216636 
+            text = "zieu3" 
+        intervals [50]:
+            xmin = 24.90033064216636 
+            xmax = 25.171230744812586 
+            text = "sil" 
+        intervals [51]:
+            xmin = 25.171230744812586 
+            xmax = 27.69760357678216 
+            text = "" 
+        intervals [52]:
+            xmin = 27.69760357678216 
+            xmax = 28.014742865423795 
+            text = "ni3" 
+        intervals [53]:
+            xmin = 28.014742865423795 
+            xmax = 28.318241754553956 
+            text = "" 
+        intervals [54]:
+            xmin = 28.318241754553956 
+            xmax = 28.63879114307346 
+            text = "ken3" 
+        intervals [55]:
+            xmin = 28.63879114307346 
+            xmax = 28.91159913330282 
+            text = "" 
+        intervals [56]:
+            xmin = 28.91159913330282 
+            xmax = 29.34127171791406 
+            text = "gai3" 
+        intervals [57]:
+            xmin = 29.34127171791406 
+            xmax = 29.61407970814342 
+            text = "" 
+        intervals [58]:
+            xmin = 29.61407970814342 
+            xmax = 29.985780594830928 
+            text = "kou3" 
+        intervals [59]:
+            xmin = 29.985780594830928 
+            xmax = 30.24420383032174 
+            text = "" 
+        intervals [60]:
+            xmin = 30.24420383032174 
+            xmax = 30.65341581566578 
+            text = "jiang3" 
+        intervals [61]:
+            xmin = 30.65341581566578 
+            xmax = 30.912583406383675 
+            text = "" 
+        intervals [62]:
+            xmin = 30.912583406383675 
+            xmax = 31.335435791239185 
+            text = "ngo3" 
+        intervals [63]:
+            xmin = 31.335435791239185 
+            xmax = 31.632796079927804 
+            text = "" 
+        intervals [64]:
+            xmin = 31.632796079927804 
+            xmax = 32.00449696661531 
+            text = "ngo3" 
+        intervals [65]:
+            xmin = 32.00449696661531 
+            xmax = 32.338686754646275 
+            text = "" 
+        intervals [66]:
+            xmin = 32.338686754646275 
+            xmax = 32.645595743654304 
+            text = "ye3" 
+        intervals [67]:
+            xmin = 32.645595743654304 
+            xmax = 32.90135323449433 
+            text = "" 
+        intervals [68]:
+            xmin = 32.90135323449433 
+            xmax = 33.160520825212224 
+            text = "ken3" 
+        intervals [69]:
+            xmin = 33.160520825212224 
+            xmax = 33.45626910492782 
+            text = "" 
+        intervals [70]:
+            xmin = 33.45626910492782 
+            xmax = 33.87230129002759 
+            text = "jiang3" 
+        intervals [71]:
+            xmin = 33.87230129002759 
+            xmax = 34.168979979402025 
+            text = "" 
+        intervals [72]:
+            xmin = 34.168979979402025 
+            xmax = 34.530450566455926 
+            text = "yu3" 
+        intervals [73]:
+            xmin = 34.530450566455926 
+            xmax = 36.31802450177243 
+            text = "" 
+        intervals [74]:
+            xmin = 36.31802450177243 
+            xmax = 36.502169895177246 
+            text = "ngo3" 
+        intervals [75]:
+            xmin = 36.502169895177246 
+            xmax = 36.993224277590095 
+            text = "" 
+        intervals [76]:
+            xmin = 36.993224277590095 
+            xmax = 37.17054947123918 
+            text = "ngo3" 
+        intervals [77]:
+            xmin = 37.17054947123918 
+            xmax = 38.81051855922482 
+            text = "" 
+        intervals [78]:
+            xmin = 38.81051855922482 
+            xmax = 39.182219445912324 
+            text = "ci3" 
+        intervals [79]:
+            xmin = 39.182219445912324 
+            xmax = 39.47207793553102 
+            text = "" 
+        intervals [80]:
+            xmin = 39.47207793553102 
+            xmax = 39.877879820997194 
+            text = "hao3" 
+        intervals [81]:
+            xmin = 39.877879820997194 
+            xmax = 40.18478881000522 
+            text = "" 
+        intervals [82]:
+            xmin = 40.18478881000522 
+            xmax = 40.49851799876899 
+            text = "you3" 
+        intervals [83]:
+            xmin = 40.49851799876899 
+            xmax = 41.56191091486819 
+            text = "" 
+        intervals [84]:
+            xmin = 41.56191091486819 
+            xmax = 41.947252201067165 
+            text = "xiang3" 
+        intervals [85]:
+            xmin = 41.947252201067165 
+            xmax = 42.196189492151454 
+            text = "" 
+        intervals [86]:
+            xmin = 42.196189492151454 
+            xmax = 42.584940878228295 
+            text = "gai3" 
+        intervals [87]:
+            xmin = 42.584940878228295 
+            xmax = 42.887323275767834 
+            text = "" 
+        intervals [88]:
+            xmin = 42.887323275767834 
+            xmax = 43.190822164898 
+            text = "zhun3" 
+        intervals [89]:
+            xmin = 43.190822164898 
+            xmax = 47.08973136520478 
+            text = "" 
+        intervals [90]:
+            xmin = 47.08973136520478 
+            xmax = 47.243185859708795 
+            text = "jiang7" 
+        intervals [91]:
+            xmin = 47.243185859708795 
+            xmax = 47.40320193481259 
+            text = "" 
+        intervals [92]:
+            xmin = 47.40320193481259 
+            xmax = 47.58760594737336 
+            text = "ngo3" 
+        intervals [93]:
+            xmin = 47.58760594737336 
+            xmax = 47.93307928768733 
+            text = "sil" 
+        intervals [94]:
+            xmin = 47.93307928768733 
+            xmax = 51.51703204144101 
+            text = "" 
+        intervals [95]:
+            xmin = 51.51703204144101 
+            xmax = 51.74891883313597 
+            text = "hao7" 
+        intervals [96]:
+            xmin = 51.74891883313597 
+            xmax = 51.82587052247963 
+            text = "" 
+        intervals [97]:
+            xmin = 51.82587052247963 
+            xmax = 52.07969852128907 
+            text = "you3" 
+        intervals [98]:
+            xmin = 52.07969852128907 
+            xmax = 52.416887569916845 
+            text = "sil" 
+        intervals [99]:
+            xmin = 52.416887569916845 
+            xmax = 55 
+            text = "" 
